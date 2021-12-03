@@ -10,7 +10,7 @@
     "seed": "node seeders/seed.js"
   },
   "author": "Aaron Marquez",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
